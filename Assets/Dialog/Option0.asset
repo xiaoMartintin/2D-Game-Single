@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26386644c0d3caf46b6f892c5c7d9101, type: 3}
+  m_Name: Option0
+  m_EditorClassIdentifier: 
+  actors: 00000000
+  randomActorName: 
+  randomActorPortrait: {fileID: 0}
+  dialog:
+  - Not much, I'm kind of bored actually.
+  optionText: []
+  option0: {fileID: 0}
+  option1: {fileID: 0}
+  option2: {fileID: 0}
+  option3: {fileID: 0}
