@@ -121,14 +121,7 @@ public abstract class Enemy : MonoBehaviour
                 playerHealth.DamagePlayer(damage);
             }
 
-        }
-        //if (other.gameObject.CompareTag("Player") && other.GetType().ToString() == "UnityEngine.PolygonCollider2D")
-        //{
-        //    other.gameObject.GetComponent<PlayerScript>.OnHit(damage);
-        ////    other.gameObject.GetComponent<PkayerNetwork>.OnHit(damage);
-        //}
-
-
+        }       
     }
     public void FlashColor(float time)
     {
